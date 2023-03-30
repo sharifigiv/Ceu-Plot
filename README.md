@@ -1,2 +1,2 @@
-### Mploter
-Mayami Ploter!
+### Plot
+Plot
