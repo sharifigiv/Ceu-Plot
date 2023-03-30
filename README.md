@@ -1,2 +1,2 @@
 ### Plot
-linear-ru 2.0
+linear-eu 2.0
